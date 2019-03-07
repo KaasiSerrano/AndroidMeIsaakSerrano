@@ -32,7 +32,21 @@
             android:id="@+id/head_container"
             android:layout_width="match_parent"
             android:layout_height="180dp"></FrameLayout>
+        <FrameLayout
+            android:id="@+id/body_container2"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"></FrameLayout>
+        <FrameLayout
+            android:id="@+id/leg_containe3"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"></FrameLayout>
+
+
+
+
+
 
     </LinearLayout>
+
 
 </ScrollView>
